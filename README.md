@@ -13,7 +13,7 @@ TEAM(SC2)3=NO-17
 2.SOURAV KARAN KISKU
    ROLLNO-23CSE203
    REGISTRATION NO-23UG010287
-   EMAIL ID-23cse203.souravkarankisku@giet.edu
+   EMAIL ID- 23cse203.souravkarankisku@giet.edu
    PHONE NO-8521858518
 
    
