@@ -1,5 +1,13 @@
 # LEARNATHON-4.0
-CPR PROJECT
+CPR PROJECT-
+Smart Interactive CPR Training Application
+
+Cardiopulmonary resuscitation (CPR) is a life-saving procedure, yet many lack confidence and accuracy in performing it. Develop a smart, interactive mobile application utilizing
+smartphone sensors or wearable technology to monitor CPR compression depth and rate. Provide instant, corrective feedback to users, integrate engaging gamified elements, and offer realistic virtual patient scenarios to enhance CPR skills effectively.
+Core Objectives :
+• Real-time feedback on CPR quality
+ • Gamified features for increased user engagement
+ • Comprehensive visual and voice-guided instructions
 
 TEAM(SC2)3=NO-17
 
