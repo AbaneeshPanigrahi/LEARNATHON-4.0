@@ -31,4 +31,4 @@ TEAM(SC2)3=NO:17
   EMAIL ID- 23lecse002.ashutoshbagyadv@giet.edu
   PHONE NO-7849094057
 
-   
+DRIVE LINK- https://docs.google.com/presentation/d/1-pZyQNO9DQs3fgCy3_EdO7vQ2OFBGyTE/edit?usp=drive_link&ouid=113206993963683297820&rtpof=true&sd=true
