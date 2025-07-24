@@ -9,7 +9,7 @@ Core Objectives :
 • Gamified features for increased user engagement
 • Comprehensive visual and voice-guided instructions
 
-TEAM(SC2)3=NO:17
+TEAM(SC2)3_NO:-17
 
 1.ABANEESH PANIGRAHI
    ROLLNO- 23LECSE002
